@@ -4,14 +4,14 @@ local config = require("tokyonight.config").options
 local tokyonight = {}
 
 tokyonight.normal = {
-  a = { bg = colors.blue, fg = colors.black },
-  b = { bg = colors.fg_gutter, fg = colors.blue },
+  a = { bg = colors.green, fg = colors.black },
+  b = { bg = colors.fg_gutter, fg = colors.green },
   c = { bg = colors.bg_statusline, fg = colors.fg_sidebar },
 }
 
 tokyonight.insert = {
-  a = { bg = colors.green, fg = colors.black },
-  b = { bg = colors.fg_gutter, fg = colors.green },
+  a = { bg = colors.blue1, fg = colors.black },
+  b = { bg = colors.fg_gutter, fg = colors.blue1 },
 }
 
 tokyonight.command = {
@@ -20,8 +20,8 @@ tokyonight.command = {
 }
 
 tokyonight.visual = {
-  a = { bg = colors.magenta, fg = colors.black },
-  b = { bg = colors.fg_gutter, fg = colors.magenta },
+  a = { bg = colors.purple, fg = colors.black },
+  b = { bg = colors.fg_gutter, fg = colors.purple },
 }
 
 tokyonight.replace = {
@@ -35,7 +35,7 @@ tokyonight.terminal = {
 }
 
 tokyonight.inactive = {
-  a = { bg = colors.bg_statusline, fg = colors.blue },
+  a = { bg = colors.bg_statusline, fg = colors.grey },
   b = { bg = colors.bg_statusline, fg = colors.fg_gutter, gui = "bold" },
   c = { bg = colors.bg_statusline, fg = colors.fg_gutter },
 }

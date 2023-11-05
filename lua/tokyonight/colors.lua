@@ -16,7 +16,7 @@ M.default = {
   comment = "#4A5057",
   dark5 = "#737aa2",
   blue0 = "#3a3957",
-  grey = "#282C34",
+  grey = "#4A5057",
   blue = "#7199EE",
   cyan = "#38A89D",
   blue1 = "#2ac3de",
@@ -33,7 +33,7 @@ M.default = {
   green1 = "#73daca",
   green2 = "#41a6b5",
   teal = "#1abc9c",
-  red = "#f7768e",
+  red = "#EE6D85",
   red1 = "#db4b4b",
   git = { change = "#6183bb", add = "#449dab", delete = "#914c54" },
   gitSigns = {
