@@ -30,6 +30,7 @@ M.default = {
   orange = "#F6955B",
   yellow = "#D7A65F",
   green = "#95C561",
+  green0 = "#00D787",
   green1 = "#73daca",
   green2 = "#41a6b5",
   teal = "#1abc9c",

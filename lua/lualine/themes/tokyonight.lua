@@ -4,8 +4,8 @@ local config = require("tokyonight.config").options
 local tokyonight = {}
 
 tokyonight.normal = {
-  a = { bg = colors.green, fg = colors.black },
-  b = { bg = colors.fg_gutter, fg = colors.green },
+  a = { bg = colors.green0, fg = colors.black },
+  b = { bg = colors.fg_gutter, fg = colors.green0 },
   c = { bg = colors.bg_statusline, fg = colors.fg_sidebar },
 }
 
